@@ -12,4 +12,5 @@
 关键字:
   嵌入式:embedded 
   蓝牙:Bluetooth
+  微信公众号:WeChat Official Account
   
